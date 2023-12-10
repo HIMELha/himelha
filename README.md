@@ -7,7 +7,7 @@ Laravel developer crafting clean and elegant solutions. Welcome to my coding wor
 
 - 🔭 I’m currently working on ReactJs 
 - 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on open for work 
+- 👯 I’m currently open for work and searching for laravel projects
 - 🤔 I’m looking for help with Advance  Javascript 
 - 💬 Ask me about How to write html 
 - 📫 How to reach me: Call me 
