@@ -13,7 +13,7 @@ Laravel developer crafting clean and elegant solutions. Welcome to my coding wor
 - 📫 How to reach me: Call me 
 - ⚡ Fun fact: 'Personal Home Page' is the original name of PHP 
 
-![Profile Views](https://komarev.com/ghpvc/?username=himelha&color=brightgreen) ![GitHub stars](https://img.shields.io/github/stars/himelha/adminlte?style=social) ![GitHub repositories](https://img.shields.io/badge/Repos-66-brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=himelha&color=skyblue) ![GitHub stars](https://img.shields.io/github/stars/himelha/adminlte?style=social) ![GitHub repositories](https://img.shields.io/badge/Repos-66-brightblue)
 
 
 
