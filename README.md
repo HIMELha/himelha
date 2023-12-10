@@ -13,18 +13,19 @@ Laravel developer crafting clean and elegant solutions. Welcome to my coding wor
 - 📫 How to reach me: Call me 
 - ⚡ Fun fact: 'Personal Home Page' is the original name of PHP 
 
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=himelha&color=blue) ![GitHub stars](https://img.shields.io/github/stars/himelha/adminlte?style=social) ![GitHub repositories](https://img.shields.io/badge/Repos-16-brightblue)
+
 
 
 ## My Skills
 
-![Laravel](https://img.shields.io/badge/Laravel-8.x-red) ![PHP](https://img.shields.io/badge/PHP-7.4-blue) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v2.2.19-blueviolet) ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-purple) ![HTML](https://img.shields.io/badge/HTML-5-orange) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
+![Laravel](https://img.shields.io/badge/Laravel-8.x-red) ![PHP](https://img.shields.io/badge/PHP-7.4-blue) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v2.2.19-blueviolet) ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-purple) ![HTML](https://img.shields.io/badge/HTML-5-orange) 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
  ![React](https://img.shields.io/badge/React-17.x-blue) ![MySQL](https://img.shields.io/badge/MySQL-8.x-blue) ![cPanel](https://img.shields.io/badge/cPanel-Latest-ff69b4) ![JWT](https://img.shields.io/badge/JWT-secure-green) ![Git](https://img.shields.io/badge/Git-version%202.35.0-blue) 
 
-[![JWT](https://img.shields.io/badge/JWT-Secure-2980B9?style=flat&logo=JSON%20Web%20Tokens&logoColor=white)](https://jwt.io/)
-[![Git](https://img.shields.io/badge/Git-Version%202.35.0-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 ****
 
