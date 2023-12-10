@@ -1,4 +1,4 @@
-![I'm a Full Stack Web Developer]([https://i.ibb.co/zZFLbgW/image.png)
+![I'm a Full Stack Web Developer](https://i.ibb.co/zZFLbgW/image.png)
 
 ### Hi there 👋, I'm Himel  Hasan
 #### I'm a Full Stack Web Developer
