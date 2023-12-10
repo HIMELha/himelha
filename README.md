@@ -21,6 +21,12 @@ Laravel developer crafting clean and elegant solutions. Welcome to my coding wor
 ![Laravel](https://img.shields.io/badge/Laravel-8.x-red) ![PHP](https://img.shields.io/badge/PHP-7.4-blue) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v2.2.19-blueviolet) ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-purple) ![HTML](https://img.shields.io/badge/HTML-5-orange) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
  ![React](https://img.shields.io/badge/React-17.x-blue) ![MySQL](https://img.shields.io/badge/MySQL-8.x-blue) ![cPanel](https://img.shields.io/badge/cPanel-Latest-ff69b4) ![JWT](https://img.shields.io/badge/JWT-secure-green) ![Git](https://img.shields.io/badge/Git-version%202.35.0-blue) 
 
+ [![JWT](https://img.shields.io/badge/JWT-Secure-success?style=flat-square&logo=JSON%20Web%20Tokens)](https://jwt.io/)
+[![Git](https://img.shields.io/badge/Git-Version%202.35.0-informational?style=flat-square&logo=git)](https://git-scm.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-purple?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
+****
+
 
 ### Code usage statics
 
