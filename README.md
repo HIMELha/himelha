@@ -22,7 +22,7 @@ Laravel developer crafting clean and elegant solutions. Welcome to my coding wor
 ## My Skills
 
 
-![Laravel](https://img.shields.io/badge/Laravel-8.x-red) ![PHP](https://img.shields.io/badge/PHP-7.4-blue) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v2.2.19-blueviolet) ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-purple) ![HTML](https://img.shields.io/badge/HTML-5-orange) 
+![Laravel](https://img.shields.io/badge/Laravel-10.35.x-red) ![PHP](https://img.shields.io/badge/PHP-8.2-blue) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v3-blueviolet) ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-purple) ![HTML](https://img.shields.io/badge/HTML-5-orange) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
  ![React](https://img.shields.io/badge/React-17.x-blue) ![MySQL](https://img.shields.io/badge/MySQL-8.x-blue) ![cPanel](https://img.shields.io/badge/cPanel-Latest-ff69b4) ![JWT](https://img.shields.io/badge/JWT-secure-green) ![Git](https://img.shields.io/badge/Git-version%202.35.0-blue) 
 
