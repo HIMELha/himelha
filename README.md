@@ -1,4 +1,4 @@
-![I'm a Full Stack Web Developer](https://i.ibb.co/xgRKRJB/image.png)
+![I'm a Full Stack Web Developer](https://i.ibb.co/9TCbvCx/Untitled-design-1.png)
 
 ### Hi there 👋, I'm Himel  Hasan
 #### I'm a Full Stack Web Developer
@@ -9,7 +9,7 @@ Laravel developer crafting clean and elegant solutions. Welcome to my coding wor
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m currently open for work and searching for laravel projects
 - 🤔 I’m looking for help with Advance  Javascript 
-- 💬 Ask me about How to write html 
+- 💬 Ask me about How to heck nasa 
 - 📫 How to reach me: Call me 
 - ⚡ Fun fact: 'Personal Home Page' is the original name of PHP 
 
