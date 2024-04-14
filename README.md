@@ -36,10 +36,7 @@
 <p align="center">For any inquiries or feedback, feel free to reach out to me at <a href="mailto:webhimel032@gmail.com">webhimel032@gmail.com</a>. You can also connect with me on</p>
 
 
-<div style="display: flex; justify-content: space-around;">
-    [![Facebook](https://img.shields.io/badge/Facebook-grey?style=for-the-badge&logo=facebook)](https://www.facebook.com/webhimel032)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin)][(https://www.linkedin.com/in/himelhasan002)]
-    [![Twitter](https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter)](https://twitter.com/himelha)
-</div>
+| [![Facebook](https://img.shields.io/badge/Facebook-grey?style=for-the-badge&logo=facebook)](https://www.facebook.com/webhimel032) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himelhasan002) | [![Twitter](https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter)](https://twitter.com/himelha) |
+|---|---|---|
 
 
