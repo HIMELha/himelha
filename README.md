@@ -36,6 +36,8 @@
 <p align="center">For any inquiries or feedback, feel free to reach out to me at <a href="mailto:webhimel032@gmail.com">webhimel032@gmail.com</a>. You can also connect with me on</p>
 
 
-
+<div style="display: flex; justify-contents:center;"> 
+  <a href="">https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook</a>
+</div>
 
 
