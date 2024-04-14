@@ -17,33 +17,25 @@
 
 
 
-### Front Technologies
+#### Front Technologies
 
-[![Front Technologies](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,js,jquery,reactjs)](https://skillicons.dev)
+[![Front Technologies](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,js,jquery,react)](https://skillicons.dev)
 
-### Backend Technologies
+#### Backend Technologies
 
 [![Backend Technologies](https://skillicons.dev/icons?i=php,laravel,mysql)](https://skillicons.dev)
 
 
+#### Additional Tools
 
-****
+[![Backend Technologies](https://skillicons.dev/icons?i=vscode,git,vite,notion,figma,canva)](https://skillicons.dev)
 
 
+<br />
 
-### My comfortable Languages
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-</div>
+<p align="center">For any inquiries or feedback, feel free to reach out to me at <a href="mailto:webhimel032@gmail.com">webhimel032@gmail.com</a>. You can also connect with me on</p>
 
-###
+
 
 
 
