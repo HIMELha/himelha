@@ -36,7 +36,8 @@
 <p align="center">For any inquiries or feedback, feel free to reach out to me at <a href="mailto:webhimel032@gmail.com">webhimel032@gmail.com</a>. You can also connect with me on</p>
 
 
-| [![Facebook](https://img.shields.io/badge/Facebook-grey?style=for-the-badge&logo=facebook)](https://www.facebook.com/webhimel032) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himelhasan002) | [![Twitter](https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter)](https://twitter.com/himelha) |
-|---|---|---|
+| [![Facebook](https://img.shields.io/badge/Facebook-grey?style=for-the-badge&logo=facebook)](https://www.facebook.com/webhimel032) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himelhasan002) | [![Twitter](https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter)](https://twitter.com/himelha) | [![YouTube](https://img.shields.io/badge/YouTube-grey?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/yourchannel) | [![WhatsApp](https://img.shields.io/badge/WhatsApp-grey?style=for-the-badge&logo=whatsapp)](https://wa.me/yournumber) | [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge)](https://yourportfolio.com) |
+|---|---|---|---|---|---|
+
 
 
