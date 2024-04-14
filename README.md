@@ -1,7 +1,8 @@
-### Hi there 👋, I'm Himel  Hasan
-#### A Full Stack Web Developer
-
-Laravel developer crafting clean and elegant solutions. Welcome to my coding world!
+<div align="center">
+  <h3>Hi there 👋, I'm Himel Hasan</h3>
+  <h4>A Full Stack Web Developer</h4>
+  <p>Laravel developer crafting clean and elegant solutions. Welcome to my coding world!</p>
+</div>
 
 - 🔭 I’m currently working on ReactJs 
 - 🌱 I’m currently learning Javascript 
