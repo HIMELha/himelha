@@ -37,7 +37,9 @@
 
 
 <div style="display: flex; justify-contents:center;"> 
-  <a href="">https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook</a>
+ [![Facebook](https://img.shields.io/badge/Facebook-grey?style=for-the-badge&logo=facebook)](https://www.facebook.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
 </div>
 
 
