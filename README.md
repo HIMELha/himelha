@@ -19,10 +19,11 @@
 
 ### Front Technologies
 
-[![Front Technologies](https://skillicons.dev/icons?i=html,css,js,jquery,tailwindcss,bootstrap)](https://skillicons.dev)
+[![Front Technologies](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,js,jquery,reactjs)](https://skillicons.dev)
 
 ### Backend Technologies
 
+[![Backend Technologies](https://skillicons.dev/icons?i=php,laravel,mysql)](https://skillicons.dev)
 
 
 
