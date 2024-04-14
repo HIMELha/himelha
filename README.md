@@ -1,7 +1,5 @@
-![I'm a Full Stack Web Developer](https://i.ibb.co/9TCbvCx/Untitled-design-1.png)
-
 ### Hi there 👋, I'm Himel  Hasan
-#### I'm a Full Stack Web Developer
+#### A Full Stack Web Developer
 
 Laravel developer crafting clean and elegant solutions. Welcome to my coding world!
 
@@ -30,11 +28,6 @@ Laravel developer crafting clean and elegant solutions. Welcome to my coding wor
 ****
 
 
-### Code usage statics
-
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=himelha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ### My comfortable Languages
 <div align="left">
