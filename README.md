@@ -1,8 +1,10 @@
 <div align="center">
   <h3>Hi there 👋, I'm Himel Hasan</h3>
-  <h4>A Full Stack Web Developer</h4>
+  <h4 style="margin-bottom: 5px">A Full Stack Web Developer</h4>
   <p>Laravel developer crafting clean and elegant solutions. Welcome to my coding world!</p>
 </div>
+<br />
+<hr />
 
 - 🔭 I’m currently working on ReactJs 
 - 🌱 I’m currently learning Javascript 
