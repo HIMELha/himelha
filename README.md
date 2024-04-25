@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Flowbite and Laravel 11 
 - 👯 I’m currently open for work and looking for an internship opportunity
 - 🤔 I’m looking for help with Javascript 
-- 💬 Ask me about How eks leave me 🙄🙂
+- 💬 Ask me about what is my favourite dish
 - 📫 How to reach me: Call me 
 - ⚡ Fun fact: 'Personal Home Page' is the original name of PHP 
 
